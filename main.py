@@ -1,11 +1,9 @@
 import requests
 from datetime import datetime
 
-
 now = datetime.now()
 phoneNumber = '0000000000' # enter phone number here
 message = '0074006500730074' # TODO message encoding rawMessage = 'test'
-
 
 
 print(message)
