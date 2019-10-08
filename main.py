@@ -5,7 +5,7 @@ import binascii
 
 phoneNumber = '0000000000' # enter phone number here
 
-message = 'Hello, world!'
+message = 'Hello, world!' # enter your message here
 
 
 gsm = ("@£$¥èéùìòÇ\nØø\rÅåΔ_ΦΓΛΩΠΨΣΘΞ\x1bÆæßÉ !\"#¤%&'()*+,-./0123456789:;<=>?"
